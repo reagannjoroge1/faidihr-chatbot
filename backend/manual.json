@@ -1,0 +1,918 @@
+[
+  {
+    "topic": "IMPORT EMPLOYEES",
+    "content": "Go to the Employee Module. → Select “Import Employees”.  → Download the sample employee data CSV template(provided in the system).  → Fill in the required employee details inthe CSV file.  → Copy and paste the data into the provided CSV format.  → Upload the completed CSV file back into the system.  → Review the data and confirm the import.",
+    "url": "https://hrms.faidihr.com/humanresource/employee/importemployeescsv"
+  },
+  {
+    "topic": "ADD EMPLOYEE(SHORTCUT)",
+    "content": "Go to the Employee Module.  → Click “Add Employee (Shortcut)”. → Fill in the required basic details: -Status -First Name -Phone Number -Email -Branch. → Click Save to add the employee to the database.",
+    "url": "https://hrms.faidihr.com/user-management/user/create"
+  },
+  {
+    "topic": "ADD EMPLOYEES (ADVANCED FORM)",
+    "content": "Go to the Employee Module. → Click “Add Employees (Advanced)”. → Enter the employee's personal information(e.g., name, contact details, identification). → Fill in the employee's payroll information(e.g., salary details, allowances, deductions). → Provide the bank account information for salary payments. → Review the details to make sure everything is correct. → Click Save to register the employee with full bio-data in the system.",
+    "url": "https://hrms.faidihr.com/humanresource/employee/create"
+  },
+  {
+    "topic": "MY PROFILE",
+    "content": "Login to yourself-service portal. → Go to the Employee Module. → Click on “My Profile”. → You will see your personal information (bio-data, academics, next of kin, etc.). → To make changes → click Edit Profile and update the necessary fields. → Save your updates once done.",
+    "url": "https://hrms.faidihr.com/humanresource/employee/viewmyprofile"
+  },
+  {
+    "topic": "VIEW EMPLOYEES",
+    "content": "Go to the Employee Module. → Click “View Employees”. → You will see a list of employees with their statuses, such as: -Active employees -Probation employees -Terminated employees -Employee profiles → To see more details about a specific employee → click “View/Edit” next to their name. If needed, you can then click “Edit Profile” to update the employee's details.",
+    "url": "https://hrms.faidihr.com/humanresource/employee/viewemployees"
+  },
+  {
+    "topic": "ONBOARDING CHECKLIST",
+    "content": "Go to the Employee Module. → Click “Onboarding Checklist”. → Create your orientation list by adding the tasks or requirements (e.g., submitting documents, attending induction, setting up workstation). Each item in the checklist is linked to a specific resource or requirement with its own ID. You can also import asample checklist CSV template from the system and fill it with your organization's orientation items. → Save the checklist.",
+    "url": "https://hrms.faidihr.com/humanresource/onboardchecklist/index"
+  },
+  {
+    "topic": "SUPERVISOR ONBOARD EMPLOYEES",
+    "content": "Go to the Employee Module. → Click “Onboard Employees”. → Select the employee who is completing their orientation. → Review the Onboarding Checklist that was created for them. → Systematically check off each completed item in the checklist (e.g., submitted ID, completed induction, workstation assigned). → Once all items are checked, mark the employee as “On boarded”.",
+    "url": "https://hrms.faidihr.com/humanresource/employee/onboardemployees"
+  },
+  {
+    "topic": "MASTER EMPLOYEE RECORDS",
+    "content": "Go to the Employee Module. → Click “Master Employee Record”. → Then the system will generate a comprehensive report of all employees' data stored in FaidiHR. → Use the report to quickly access, review, or export employee information in one place.",
+    "url": "https://hrms.faidihr.com/humanresource/employee/masterreport"
+  },
+  {
+    "topic": "CONTRACT END DATES",
+    "content": "Go to the Employee Module. → Click “Contract End Dates Report”. → The system will display a list of employees with their contract expiry dates. → Review the report to identify contracts that are about to end. → Then If configured, the system will also send automatic notifications to HR when a contract is nearing its due date (based on the contract due days setting in general parameters).",
+    "url": "https://hrms.faidihr.com/humanresource/employee/employeecontractsexpiry"
+  },
+  {
+    "topic": "OFFBOARD EMPLOYEES",
+    "content": "Go to the Employee Module. → Click “Off-Board Employees”. → Select the employee who is exiting the organization (resignation, termination, or retirement). → Open the system-generated clearance form for that employee. → Fill in the required details on the form. → Review and confirm the process to officially off-board the employee.",
+    "url": "https://hrms.faidihr.com/humanresource/employee/terminateemployee"
+  },
+  {
+    "topic": "SUPERVISOR OFFBOARD EMPLOYEES",
+    "content": "Go to the Employee Module. → Click “Off-BoardEmployees”. → Select the employee who is leaving the organization. → Open the Clearance Form generated by the system. → Review the employee's details and mark the items completed (e.g., return of assets, departmental sign-off). → Confirm the clearance to finalize the off-boarding process.",
+    "url": "https://hrms.faidihr.com/humanresource/offboardingchecklist/index"
+  },
+  {
+    "topic": "OFFBOARDING CHECKLIST",
+    "content": "Go to the Employee Module. → Click “Off-Board Checklist”. → Select the employee who is exiting the company. → Then the system will display the checklist of resources/items linked to that employee (e.g., laptop, ID card, company phone, documents). → Then tick each item as it is returned or cleared by the respective department. → Once all items are checked off, save and confirm the clearance.",
+    "url": "https://hrms.faidihr.com/humanresource/offboardingchecklist/index"
+  },
+  {
+    "topic": "CREATE DOCUMENT",
+    "content": "Go to the Employee Module → HR Centre/Docs. → Click “Create Document”. → Upload the document you want to add (e.g., policies, forms, handbook). → Enter the required details, such as: -Document title -Description (optional) -Access level (which employees or groups can view it) → Save the document.",
+    "url": "https://hrms.faidihr.com/document/document/create"
+  },
+  {
+    "topic": "UPDATE DOCUMENTS",
+    "content": "Go to the Employee Module → HR Centre/Docs. → Locate the document you want to update. → Click “Update Document”(orEdit). → Choose whether to: -Replace the existing file with a new version, or -Edit the document details (title, description, or access permissions). → Save the changes.",
+    "url": "https://hrms.faidihr.com/document/document/index"
+  },
+  {
+    "topic": "HR CENTRE/DOCS",
+    "content": "Go to the Employee Module. → Click “HR Centre/Docs”. → You will see a list of important company documents (e.g., policies, handbooks, guidelines). → Browse through the available folders or categories if they have been created. → Click on a document title to view or download it.",
+    "url": "https://hrms.faidihr.com/document/document/documentfolders"
+  },
+  {
+    "topic": "MANAGE FOLDERS",
+    "content": "Go to the Employee Module → HR Centre/Docs. → Click “Manage Folders”. → To create a new folder: → Click “Create Folder”. → Enter the folder name (e.g., SOPs, KPIs, Policies). → Save. → To delete a folder: -Select the folder you want to remove. -Click Delete. -Place documents into the right folders for better organization.",
+    "url": "https://hrms.faidihr.com/document/category/index"
+  },
+  {
+    "topic": "BENEFITS",
+    "content": "Go to the Employee Module. → Click “Benefits”. → You will see a list of all company-provided benefits (e.g., medical cover, allowances, perks). → Then each benefit will show its details and provider information. → Select a specific benefit to view or update its details (if you have admin/HR permissions).",
+    "url": "https://hrms.faidihr.com/humanresource/benefits/index"
+  },
+  {
+    "topic": "DONOR ALLOCATION",
+    "content": "Go to the Employee Module. → Click “Donor Allocation”. → Select the employee(s) whose salaries or benefits are linked to specific donor funding. → Assign the donor to the employee. → Then If needed, link the donor to a specific project that they are funding. → Save the allocation.",
+    "url": "https://hrms.faidihr.com/humanresource/donor/index"
+  },
+  {
+    "topic": "APPLY LEAVE",
+    "content": "Login to your self-service portal → Navigate to the 'Leaves/Off Day' section → Click 'Apply Leave' → Select your leave type (e.g., annual, sick, compassionate, etc.) → Enter the start and end dates for your leave → Provide any required details or comments → Click 'Submit' to send your request",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/create"
+  },
+  {
+    "topic": "CLAIM DAYS",
+    "content": "Login to your self-service portal. → Navigate to the 'Leaves/Off Day' section. → Click 'Apply Leave'. → Select your leave type. → Enter the start and end dates. → Provide required details or comments. → Click 'Submit'.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/employeeoffdayapply"
+  },
+  {
+    "topic": "COMPANY LEAVE CALENDAR",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'Company Leave Calendar'. → View calendar showing applied leaves, status, dates, and duration. → Filter by department, branch, or employee.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/appprovedcalendar"
+  },
+  {
+    "topic": "COMPANY SHIFTS CALENDAR",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'Company Shifts Calendar'. → View shift schedules, start/end times, branch/department shifts. → Use filters for specific teams or periods.",
+    "url": "https://hrms.faidihr.com/humanresource/shiftmanage/viewshiftcalendar"
+  },
+  {
+    "topic": "MANAGE SHIFTS",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'Manage Shifts'. → Select employee(s) or department. → Choose shift type (Morning, Afternoon, Night). → Set start and end times. → Save changes.",
+    "url": "https://hrms.faidihr.com/humanresource/shiftmanage/manageshifts"
+  },
+  {
+    "topic": "MASTER SHIFTS",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'Master Shifts'. → Click 'Create New Shift'. → Enter Shift Name, Start Time, End Time. → Save the shift.",
+    "url": "https://hrms.faidihr.com/humanresource/shiftmanage/index"
+  },
+  {
+    "topic": "SUPERVISOR APPROVAL",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'Supervisor Approval'. → Review leave applications from supervised employees. → Click Approve or Decline. → Approved requests move to HR/Director Approval.",
+    "url": null
+  },
+  {
+    "topic": "HR/DIRECTOR APPROVAL",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'HR/Director Approval'. → Review supervisor-approved leave requests. → Click Approve or Decline. → Finalize leave in system.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/applications2"
+  },
+  {
+    "topic": "HR PRINT",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'HR Print'. → Select leave request(s) to print. → Click 'Print' button.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/hrprint"
+  },
+  {
+    "topic": "HR APPLY",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'HR Apply'. → Select employee. → Choose leave type. → Enter start and end dates. → Add comments. → Click 'Submit'.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/hrapply"
+  },
+  {
+    "topic": "SUPERVISOR APPLY",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'Supervisor Apply'. → Select employee. → Choose leave type. → Enter number of leave days and dates. → Add comments. → Click 'Submit'.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/supervisorapply"
+  },
+  {
+    "topic": "MY LEAVES ANALYSES",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'My Leave Analysis'. → View leave types, days taken, leave balances.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/myleave"
+  },
+  {
+    "topic": "ANNUAL LEAVE REPORT",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'Annual Leave Report'. → View yearly leave summary. → Use filters for department, branch, or year.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/leavereport"
+  },
+  {
+    "topic": "DEPARTMENT LEAVE REPORT",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Open 'Leave Summary Report' or 'Report per Leave Type'. → Select Department filter. → Choose date range or leave type. → Click Search/Generate Report.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/departmentalleavereport"
+  },
+  {
+    "topic": "BRANCH LEAVE REPORT",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Open 'Leave Summary Report' or 'Report per Leave Type'. → Select Branch filter. → Choose date range or leave type. → Click Search/Generate Report.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/branchleavereport"
+  },
+  {
+    "topic": "REFRESH LEAVE BALANCES",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'Upload Leave Balances'. → Download CSV template. → Prepare leave balance data. → Upload CSV file. → Review and confirm.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/refreshleavebalances"
+  },
+  {
+    "topic": "LEAVE SUMMARY REPORT",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'Leave Summary Report'. → View summary of all leave types and usage. → Use filters to refine report. → Export or print if needed.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/leavebalancessummary"
+  },
+  {
+    "topic": "APPLICATIONS/APPROVED",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'Application/Approved'. → View comparison report. → Use filters to refine view.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/leavebalances"
+  },
+  {
+    "topic": "APPLICATIONS/APPROVED BY DEPARTMENT",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'Application/Approved'. → Select Department filter. → Set additional filters. → Click Search/Generate Report.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/leavebalancesbydepartment"
+  },
+  {
+    "topic": "APPLICATION/APPROVED BY BRANCH",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'Application/Approved'. → Select Branch filter. → Apply other filters. → Click Search/Generate Report.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/leavebalanceobranch"
+  },
+  {
+    "topic": "PENDING APPROVAL LIST",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Open Supervisor Approval or HR/Director Approval. → View pending applications. → Review and approve/decline.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/leavebalancespendingapproval"
+  },
+  {
+    "topic": "LEAVE APPROVERS",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'Leave Approvers'. → View list of approvers. → Edit or assign approvers. → Save changes.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapprovers/index"
+  },
+  {
+    "topic": "REPORT PER LEAVE TYPE",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'Report per Leave Type'. → View summary grouped by leave type. → Use filters to refine report. → Export or print.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/allemployees"
+  },
+  {
+    "topic": "REPORT PER LEAVE TYPE BY DEPARTMENT",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'Report per Leave Type'. → Select Department filter. → Apply additional filters. → Click Search/Generate Report.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/allemployeesbydepartment"
+  },
+  {
+    "topic": "WEEKEND SETTINGS",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'Weekend Settings'. → View current configuration. → Select weekend days. → Save settings.",
+    "url": "https://hrms.faidihr.com/humanresource/weekendsettings/index"
+  },
+  {
+    "topic": "LEAVE BALANCES",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'Upload Leave Balances'. → Download CSV template. → Fill in employee leave balances. → Upload CSV file. → Review and confirm.",
+    "url": "https://hrms.faidihr.com/humanresource/leavebalances/postbulk"
+  },
+  {
+    "topic": "ADD OFFDAYS",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'Add Offday'. → Select employee. → Enter date(s). → Choose reason/type. → Add comments. → Click Save.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/offday"
+  },
+  {
+    "topic": "ALL CLAIMED DAYS",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'All Claimed Days'. → View claimed days list. → Use filters to refine view. → Export or print.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/allofidays"
+  },
+  {
+    "topic": "SUPERVISOR APPROVED LEAVES",
+    "content": "Go to the Employee Module. → Leaves/Off Day. → Click 'Supervisor Approved Leaves'. → View approved leaves list. → Use filters to narrow results. → Export or print.",
+    "url": "https://hrms.faidihr.com/humanresource/leaveapp/allofidays"
+  },
+  {
+    "topic": "POST BY EMPLOYEE",
+    "content": "Go to the Payroll Module. → Click 'Post by Employee'. → Select Payroll Period. → Choose Employee. → Review payroll details. → Click 'Post'.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/create"
+  },
+  {
+    "topic": "POST BY EMPLOYEE CODE",
+    "content": "Go to the Payroll Module. → Click 'Post by Employee Code'. → Select Payroll Period. → Enter Employee Code. → Review payroll details. → Click 'Post'.",
+    "url": null
+  },
+  {
+    "topic": "POST BY PAYROLL CODE",
+    "content": "Go to the Payroll Module. → Click 'Post by Payroll Code'. → Select Payroll Period. → Enter Payroll Code. → Choose employees/departments. → Enter amount/value. → Click 'Post'.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/postbypaycode"
+  },
+  {
+    "topic": "POST TO ALL BY CODE",
+    "content": "Go to the Payroll Module. → Click 'Post to All by Code'. → Select Payroll Period. → Enter Payroll Code. → Enter amount/value for all employees. → Review summary. → Click 'Post'.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/postbypaycodeall"
+  },
+  {
+    "topic": "BULK POSTING",
+    "content": "Go to the Payroll Module. → Click 'Bulk Posting'. → Download CSV template. → Fill in employee payroll details. → Upload CSV file. → Review and click 'Post'.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/postbulk"
+  },
+  {
+    "topic": "POST ALL BASIC SALARIES",
+    "content": "Go to the Payroll Module. → Click 'Post All Basic Salaries'. → Select Payroll Period. → Review employee details. → Click 'Post'.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/postbulkview"
+  },
+  {
+    "topic": "RECALCULATE PAYROLL",
+    "content": "Go to the Payroll Module. → Click 'Recalculate Payroll'. → Select Payroll Period. → Choose recalculation scope. → Click 'Recalculate'. → Review updated figures.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/initiateprocessrecalculate"
+  },
+  {
+    "topic": "RUN/CLOSE PAYROLL PERIOD",
+    "content": "Go to the Payroll Module. → Click 'Run / Close Payroll Period'. → Select Payroll Period. → Review postings and calculations. → Click 'Run Payroll'. → Click 'Close Payroll Period'.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/runpayroll"
+  },
+  {
+    "topic": "INITIATE PAYMENT",
+    "content": "Go to the Payroll Module. → Click 'Initiate Payment'. → Select Payroll Period. → Review payment details. → Choose payment method. → Click 'Generate Payment File'. → Submit to banking portal.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/payments"
+  },
+  {
+    "topic": "APPROVE PAYMENT",
+    "content": "Go to the Payroll Module. → Click 'Approve Payment'. → Select Payroll Period. → Review payment batches. → Click 'Approve' or 'Reject'.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/paymentsapprovals"
+  },
+  {
+    "topic": "CURRENT PAYROLL/DEPARTMENT",
+    "content": "Go to the Payroll Module. → Click 'Current Payroll / Department'. → Select Payroll Period. → Choose Department filter. → View payroll summary.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/allreportsdepartments"
+  },
+  {
+    "topic": "SEND PAYROLL NOTIFICATIONS",
+    "content": "Go to the Payroll Module. → Click 'Send Payroll Notifications'. → Select Payroll Period. → Review/customize message. → Choose notification method. → Click 'Send'.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/initiateemilprocess"
+  },
+  {
+    "topic": "PAYROLL REPORTS",
+    "content": "Go to the Payroll Module. → Click 'Payroll Reports'. → Select Payroll Period. → Choose report type. → Apply filters. → Click 'Generate Report'. → Export if needed.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/reportsviews"
+  },
+  {
+    "topic": "LOAN/SAVINGS CHECK OFF",
+    "content": "Go to the Payroll Module. → Click 'Loan/Savings Check-Off'. → Select Payroll Period. → Review active loans/savings. → Click 'Process Check-Off'.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/checkoff"
+  },
+  {
+    "topic": "APPROVE ADVANCES/LOAN",
+    "content": "Go to the Payroll Module. → Click 'Approve Advances/Loan'. → Review pending requests. → Click 'Approve' or 'Decline'.",
+    "url": null
+  },
+  {
+    "topic": "LOANS & SAVINGS",
+    "content": "Go to the Payroll Module. → Click 'Loans & Savings'. → View loan/savings dashboard. → Add new records. → Edit/stop/close loans.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/checkoff"
+  },
+  {
+    "topic": "MY PAYSLIPS",
+    "content": "Log in to Self-Service Portal. → Go to Payroll Module. → Click 'My Payslips'. → Select payroll period. → View or download payslip.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/allpayslip"
+  },
+  {
+    "topic": "UPLOAD PAYSLIPS",
+    "content": "Go to the Payroll Module. → Click 'Upload Payslips'. → Download CSV template. → Prepare payslip data. → Upload CSV file. → Review and confirm.",
+    "url": "https://hrms.faidihr.com/humanresource/employee/uploadpayslip"
+  },
+  {
+    "topic": "MY P9 REPORTS",
+    "content": "Log in to Self-Service Portal. → Go to Payroll Module. → Click 'My P9 Reports'. → Select Payroll Year. → Click 'Generate P9'. → Download report.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/myp9threereport"
+  },
+  {
+    "topic": "PAYROLL CODES",
+    "content": "Go to the Payroll Module. → Click 'Payroll Codes'. → View existing codes. → Add new codes. → Edit existing codes.",
+    "url": "https://hrms.faidihr.com/humanresource/payrollcodes"
+  },
+  {
+    "topic": "PAYE SETTINGS",
+    "content": "Go to the Payroll Module. → Click 'PAYE Settings'. → View current tax bands and rates. → Update fields as required. → Click Save.",
+    "url": "https://hrms.faidihr.com/humanresource/paye/index"
+  },
+  {
+    "topic": "NSSF SETTINGS",
+    "content": "Go to the Payroll Module. → NSSF Settings. → Review current setup. → Update configuration fields. → Click 'Save'.",
+    "url": "https://hrms.faidihr.com/humanresource/nssf/index"
+  },
+  {
+    "topic": "SHIF SETTINGS",
+    "content": "Go to the Payroll Module. → SHIF Settings. → Review current rates. → Set calculation method and rates. → Click Save.",
+    "url": "https://hrms.faidihr.com/humanresource/nhif/index"
+  },
+  {
+    "topic": "HOUSE LEVY SETTINGS",
+    "content": "Go to the Payroll Module. → House Levy Settings. → Review current configuration. → Update parameters. → Click Save.",
+    "url": "https://hrms.faidihr.com/humanresource/generalparams/houselevy"
+  },
+  {
+    "topic": "PAYROLL DASHBOARD",
+    "content": "Go to the Payroll Module. → Click 'Payroll Dashboard'. → View key payroll analytics.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/payrolldashboard"
+  },
+  {
+    "topic": "UPLOAD PAST PAYROLL DATA",
+    "content": "Go to the Payroll Module. → Click 'Upload Past Payroll Data'. → Download CSV template. → Fill in payroll history. → Upload CSV file. → Review and confirm.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/postbulkarchive"
+  },
+  {
+    "topic": "EDIT PAST PAYROLL DATA",
+    "content": "Go to the Payroll Module. → Click 'Edit Past Payroll Data'. → Select Payroll Period. → Edit payroll records. → Click 'Save'.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/editpayrollarchive"
+  },
+  {
+    "topic": "SALARY ADVANCE",
+    "content": "Log in to Self-Service Portal. → Go to Payroll Module. → Click 'Salary Advance'. → Click 'Apply for Advance'. → Fill in details. → Click Submit.",
+    "url": null
+  },
+  {
+    "topic": "APPLY ADVANCE",
+    "content": "Log in to Self-Service Portal. → Go to Payroll Module. → Click 'Salary Advance'. → Select 'Apply Advance'. → Fill in advance request form. → Click Submit.",
+    "url": "https://hrms.faidihr.com/humanresource/salary/create"
+  },
+  {
+    "topic": "APPLY ADVANCE /LOAN/ CHECK OFF",
+    "content": "Log in to Self-Service Portal. → Go to Payroll Module. → Click 'Apply Advance / Loan / Check-Off'. → Choose request type. → Fill in details. → Click Submit.",
+    "url": "https://hrms.faidihr.com/humanresource/transactionspayroll/checkoffemployee"
+  },
+  {
+    "topic": "APPLY LOAN",
+    "content": "Log in to Self-Service Portal. → Go to Payroll Module. → Click 'Apply Loan'. → Fill in loan application form. → Click Submit.",
+    "url": "https://hrms.faidihr.com/humanresource/salary/applyloan"
+  },
+  {
+    "topic": "APPROVE LOAN",
+    "content": "Go to the Payroll Module. → Click 'Approve Advances/Loan'. → Review pending loan requests. → Click 'Approve' or 'Decline'.",
+    "url": "https://hrms.faidihr.com/humanresource/salary/applicationsloan"
+  },
+  {
+    "topic": "HR APPLY ADVANCE",
+    "content": "Go to the Payroll Module. → Click 'HR Apply Advance'. → Select Employee. → Fill in advance details. → Click Submit.",
+    "url": "https://hrms.faidihr.com/humanresource/salary/hrapply"
+  },
+  {
+    "topic": "MY APPLICATION",
+    "content": "Log in to Self-Service Portal. → Go to Payroll Module. → Click 'My Applications'. → View application status and details.",
+    "url": "https://hrms.faidihr.com/humanresource/salary/myapplication"
+  },
+  {
+    "topic": "HR APPROVAL",
+    "content": "Go to appropriate module. → Click 'HR Approval'. → Review pending items. → Click Approve or Decline.",
+    "url": "https://hrms.faidihr.com/humanresource/salary/applications"
+  },
+  {
+    "topic": "FINANCE APPROVAL",
+    "content": "Go to the Payroll Module. → Click 'Finance Approval'. → Review items awaiting finance action. → Click Approve or Decline.",
+    "url": "https://hrms.faidihr.com/humanresource/salary/applications2"
+  },
+  {
+    "topic": "APPROVED ADVANCE REPORT",
+    "content": "Go to the Payroll Module. → Click 'Approved Advance Report'. → Select filters. → Click 'Generate Report'. → Export if needed.",
+    "url": "https://hrms.faidihr.com/humanresource/salary/advances"
+  },
+  {
+    "topic": "DECLINED ADVANCE REPORT",
+    "content": "Go to the Payroll Module. → Click 'Declined Advance Report'. → Select filters. → Click 'Generate Report'. → Export if needed.",
+    "url": "https://hrms.faidihr.com/humanresource/salary/advance"
+  },
+  {
+    "topic": "STAFF REQUISITION",
+    "content": "Go to the HR Module. → Click 'Staff Requisition'. → Select 'New Requisition'. → Fill in required details. → Click Submit.",
+    "url": "https://hrms.faidihr.com/staffrequisition"
+  },
+  {
+    "topic": "HOD APPROVE STAFF REQUISITION",
+    "content": "Log in as HOD. → Go to HR Module. → Staff Requisition. → Click 'Pending Approvals'. → Review requisitions.",
+    "url": "https://hrms.faidihr.com/staffrequisition/h-o-dapproval"
+  },
+  {
+    "topic": "HR APPROVE STAFF REQUISITION",
+    "content": "Log in as HR. → Go to HR Module. → Staff Requisition. → Click 'Pending HR Approvals'. → Review HOD-approved requisitions.",
+    "url": "https://hrms.faidihr.com/staffrequisition/hrapproval"
+  },
+  {
+    "topic": "FINANCE/DIRECTOR APPROVE STAFF REQUISITION",
+    "content": "Log in as Finance/Director. → Navigate to HR Module. → Staff Requisition. → Click 'Pending Approvals'. → Review HR-approved requisitions.",
+    "url": "https://hrms.faidihr.com/staffrequision/financeapproval"
+  },
+  {
+    "topic": "CREATE JOB",
+    "content": "Log in to HR Portal. → Go to Recruitment Module. → Click 'Create Job'. → Fill in Job Details Form. → Click Save or Post Job.",
+    "url": "https://hrms.faidihr.com/workflow/jobs/create"
+  },
+  {
+    "topic": "POST/EDIT JOB",
+    "content": "Log in to HR Portal. → Go to Recruitment Module. → Jobs. → Locate job to post/edit. → Click 'Post Job'. → Fill/confirm details. → Click Save or Confirm Post.",
+    "url": "https://hrms.faidihr.com/workflow/jobs/index"
+  },
+  {
+    "topic": "SHORTLIST JOB SEEKERS",
+    "content": "Log in to HR Portal. → Go to Recruitment Module. → Job Applications. → Choose Job Title. → Review and shortlist applicants.",
+    "url": "https://hrms.faidihr.com/workflow/jobs/index1"
+  },
+  {
+    "topic": "JOB PORTAL",
+    "content": "Log in to HR Portal. → Go to Recruitment Module. → Job Portal. → View active job postings.",
+    "url": "https://jobs.faidihr.com/"
+  },
+  {
+    "topic": "REQUEST ITEMS",
+    "content": "Log in to Self-Service Portal. → Go to Procurement/Inventory Module. → Click 'Request Item'. → Fill in Item Request Form. → Click Submit.",
+    "url": "https://hrms.faidihr.com/inventory/inventory-issuance/request"
+  },
+  {
+    "topic": "MY ITEMS",
+    "content": "Log in to Self-Service Portal. → Go to Procurement/Inventory Module. → Click 'My Items'. → View assigned items.",
+    "url": "https://hrms.faidihr.com/inventory/inventory-issuance/mytems"
+  },
+  {
+    "topic": "ADD TO INVENTORY",
+    "content": "Log in to Admin/Procurement Portal. → Go to Inventory/Procurement Module. → Click 'Add to Inventory'. → Fill in item details. → Click Save/Add Item.",
+    "url": "https://hrms.faidihr.com/inventory/inventory-record/create"
+  },
+  {
+    "topic": "MANAGE INVENTORY",
+    "content": "Log in to Admin/Procurement Portal. → Go to Inventory Module. → Click 'Manage Inventory'. → View inventory dashboard.",
+    "url": "https://hrms.faidihr.com/inventory/inventory-record/index"
+  },
+  {
+    "topic": "ISSUE ITEMS",
+    "content": "Log in to Admin/Procurement Portal. → Go to Inventory Module. → Click 'Issue Items'. → Fill in Item Issuance Form. → Click Save or Issue.",
+    "url": "https://hrms.faidihr.com/inventory/inventory-issuance/create"
+  },
+  {
+    "topic": "MANAGE ISSUED ITEMS",
+    "content": "Log in to Admin/Procurement Portal. → Go to Inventory Module. → Manage Issued Items. → View issued items list.",
+    "url": "https://hrms.faidihr.com/inventory/inventory-issuance/index"
+  },
+  {
+    "topic": "APPROVE REQUESTED ITEMS",
+    "content": "Log in with Supervisor/HOD/Procurement credentials. → Go to Inventory/Procurement Module. → Click 'Approve Requested Items'. → Review pending requests.",
+    "url": "https://hrms.faidihr.com/inventory/inventory-issuance/requesteditems"
+  },
+  {
+    "topic": "INVENTORY TYPES",
+    "content": "Log in to Admin/Procurement Portal. → Go to Inventory Module. → Click 'Inventory Types'. → View existing categories.",
+    "url": "https://hrms.faidihr.com/inventory/inventory-types/index"
+  },
+  {
+    "topic": "INVENTORY STATUS",
+    "content": "Log in to Admin/Procurement Portal. → Go to Inventory Module. → Click 'Inventory Status'. → View inventory summary.",
+    "url": "https://hrms.faidihr.com/inventory/issuance-status/index"
+  },
+  {
+    "topic": "+NEW APPRAISAL",
+    "content": "Log in to HR Portal. → Go to Performance Management Module. → Click '+ New Appraisal'. → Fill in Appraisal Setup Form. → Click Save/Create Appraisal.",
+    "url": "https://hrms.faidihr.com/humanresource/appraisalstypes/index"
+  },
+  {
+    "topic": "+ADD GOALS",
+    "content": "Log in to Portal. → Navigate to Performance Management Module. → Open relevant Appraisal Cycle. → Click '+ Add Goals'.",
+    "url": "https://hrms.faidihr.com/humanresource/appraisalstypes/supervisoraddgoals"
+  },
+  {
+    "topic": "SELF APPRAISAL",
+    "content": "Log in to Self-Service Portal. → Go to Performance Management Module. → Click 'Self Appraisal'. → Select Appraisal Period. → Complete assessment.",
+    "url": "https://hrms.faidihr.com/humanresource/appraisal/selfappraisal"
+  },
+  {
+    "topic": "MY REPORTS",
+    "content": "Log in to Self-Service/HR Portal. → Navigate to Reports Module. → Click 'My Reports'. → View available report categories.",
+    "url": "https://hrms.faidihr.com/humanresource/appraisal/self-reports"
+  },
+  {
+    "topic": "SUPERVISOR APPRAISAL",
+    "content": "Log in to Supervisor/Manager Portal. → Go to Performance Management Module. → Click 'Supervisor Appraisal'. → Select Appraisal Period. → Review employee appraisals.",
+    "url": "https://hrms.faidihr.com/humanresource/appraisal/supervisorappraisal"
+  },
+  {
+    "topic": "HR APPRAISAL",
+    "content": "Log in to HR Portal. → Go to Performance Management Module. → Click 'HR Appraisal'. → Select Appraisal Period. → Validate completed appraisals.",
+    "url": "https://hrms.faidihr.com/humanresource/appraisal/hrappraisal"
+  },
+  {
+    "topic": "PIP APPRAISAL",
+    "content": "Log in to HR Portal. → Go to Performance Management Module. → Click 'PIP Appraisal'. → Click '+ New PIP'. → Fill in required fields. → Click Save/Initiate PIP.",
+    "url": "https://hrms.faidihr.com/humanresource/appraisal/pipreport"
+  },
+  {
+    "topic": "UPLOAD APPRAISAL",
+    "content": "Log in to HR Portal. → Go to Performance Management Module. → Click 'Upload Appraisal'. → Download Appraisal Template. → Upload completed template.",
+    "url": "https://hrms.faidihr.com/humanresource/appraisal/importappraisalsv"
+  },
+  {
+    "topic": "EXTERNAL APPRAISAL REPORT",
+    "content": "Log in to HR Portal. → Go to Performance Management Module. → Click 'External Appraisal Report'.",
+    "url": "https://hrms.faidihr.com/humanresource/appraisal/externalresultsreport"
+  },
+  {
+    "topic": "MY APPRAISAL DOCS",
+    "content": "Log in to Self-Service Portal. → Go to Performance Management Module. → Click 'My Appraisal Docs'.",
+    "url": "https://hrms.faidihr.com/humanresource/appraisal/employeedocs"
+  },
+  {
+    "topic": "GLOBAL GOAL ROLES",
+    "content": "Log in to HR Portal with admin rights. → Navigate to Performance Management Module. → Click 'Global Goal Roles'. → View existing role goals. → Add/edit global goals.",
+    "url": null
+  },
+  {
+    "topic": "MY OBJECTIVES",
+    "content": "Log in to Self-Service Portal. → Go to Performance Management Module. → Click 'My Objectives'. → View assigned objectives. → Add new objectives.",
+    "url": "https://hrms.faidihr.com/humanresource/goals/globalgoals"
+  },
+  {
+    "topic": "APPROVE OBJECTIVES",
+    "content": "Log in to Supervisor/HR Portal. → Go to Performance Management Module. → Click 'Approve Objectives'. → Review employee objectives. → Approve or decline.",
+    "url": "https://hrms.faidihr.com/humanresource/appraisal/supervisorobjectives"
+  },
+  {
+    "topic": "HR APPROVE OBJECTIVES",
+    "content": "Log in to HR Portal. → Navigate to Performance Management Module. → Click 'HR Approve Objectives'. → Review submitted objectives. → Approve or decline.",
+    "url": "https://hrms.faidihr.com/humanresource/appraisal/hrobjectives"
+  },
+  {
+    "topic": "IMPORT FROM CSV",
+    "content": "Log in to HR/Admin Portal. → Go to relevant module. → Click 'Import from CSV'. → Upload CSV file.",
+    "url": "https://hrms.faidihr.com/humanresource/timesheet/importemployeestimesheetssv"
+  },
+  {
+    "topic": "SUPERVISOR CLOCK IN/OUT",
+    "content": "Log in to Supervisor Portal. → Go to Attendance Module. → Click 'Clock In / Clock Out'. → Register attendance action.",
+    "url": "https://hrms.faidihr.com/humanresource/timesheet/index"
+  },
+  {
+    "topic": "SUP CLOCK IN/OUT",
+    "content": "Log in to Supervisor Portal. → Navigate to Attendance Module. → Click 'Sup Clock In/Out'. → Manage team attendance.",
+    "url": "https://hrms.faidihr.com/humanresource/timesheet/supervisorcreate"
+  },
+  {
+    "topic": "EMPLOYEE CLOCK IN/ OUT",
+    "content": "Log in to Self-Service Portal. → Go to Attendance Module. → Click 'Employee Clock In/Out'. → Register attendance.",
+    "url": "https://hrms.faidihr.com/humanresource/timesheet/myclockout"
+  },
+  {
+    "topic": "ATTENDANCE ENTRIES",
+    "content": "Log in to appropriate portal. → Go to Attendance Module. → Attendance Entries. → View/edit attendance records.",
+    "url": "https://hrms.faidihr.com/humanresource/timesheet/departmentalattendanceentries"
+  },
+  {
+    "topic": "DEPARTMENT ATTENDANCE ENTRIES",
+    "content": "Log in to Supervisor/HR Portal. → Go to Attendance Module. → Click 'Department Attendance Entries'. → Select filters. → View department attendance.",
+    "url": "https://hrms.faidihr.com/humanresource/timesheet/departmentalattendanceentries"
+  }
+  ,
+    {
+        "Topic": "BRANCH ATTENDANCE ENTRIES",
+        "Content": "Log in to HR/Branch Admin Portal → Go to Attendance Module → Click 'Branch Attendance Entries' → Select filters → View branch attendance",
+        "url": "https://hrms.faidihr.com/humanresource/timesheet/absentemployees"
+    },
+    {
+        "Topic": "ABSENTEES ENTRIES",
+        "Content": "Log in to HR/Supervisor Portal → Navigate to Attendance Module → Click 'Absentees Entries' → Select filters → Generate absentee list",
+        "url": "https://hrms.faidihr.com/humanresource/timesheet/latenessreport"
+    },
+    {
+        "Topic": "LATENESS REPORT",
+        "Content": "Log in to HR/Supervisor Portal → Go to Attendance Module → Click 'Lateness Report' → Apply filters → Generate report",
+        "url": "https://hrms.faidihr.com/humanresource/timesheet/latenessreport"
+    },
+    {
+        "Topic": "RECONCILE ATTENDANCE",
+        "Content": "Log in to HR/Supervisor Portal → Go to Attendance Module → Click 'Reconcile Attendance' → Select reconciliation period → Review and fix discrepancies",
+        "url": "https://hrms.faidihr.com/humanresource/timesheet/reconsile"
+    },
+    {
+        "Topic": "MASTER ATTENDANCE",
+        "Content": "Log in to HR/Supervisor Portal → Go to Attendance Module → Click 'Master Attendance' → Set filters → View/edit attendance records",
+        "url": "https://hrms.faidihr.com/humanresource/timesheet/masterrollcombined"
+    },
+    {
+        "Topic": "MASTER ATTENDANCE/TYPE",
+        "Content": "Log in to HR/Admin Portal → Go to Attendance Module → Click 'Master Attendance / Type' → View attendance types → Add/edit types",
+        "url": "http://hrms.faidihr.com/humanresource/timesheet/masterroll"
+    },
+    {
+        "Topic": "ATTENDANCE/PROJECT",
+        "Content": "Log in to HR/Supervisor Portal → Go to Attendance Module → Click 'Attendance / Project' → Select project and filters → View project attendance",
+        "url": "https://hrms.faidihr.com/humanresource/timesheet/employeesallentries"
+    },
+    {
+        "Topic": "MONTHLY ATTENDANCE REPORT",
+        "Content": "Log in to HR/Supervisor Portal → Go to Attendance Module → Click 'Monthly Attendance Report' → Set report filters → Generate report",
+        "url": "https://hrms.faidihr.com/humanresource/timesheet/employeesallentries"
+    },
+    {
+        "Topic": "ABSENTEEISM REPORT",
+        "Content": "Log in to HR/Supervisor Portal → Go to Attendance Module → Click 'Absenteeism Report' → Apply report filters → Generate report",
+        "url": "https://hrms.faidihr.com/humanresource/timesheet/absenterreport"
+    },
+    {
+        "Topic": "BREAK/LUNCH REPORT",
+        "Content": "Log in to HR/Supervisor Portal → Go to Attendance Module → Click 'Break/Lunch Report' → Set report filters → Generate report",
+        "url": "https://hrms.faidihr.com/humanresource/timesheet/breaksentries"
+    },
+    {
+        "Topic": "MY ATTENDANCE REPORT",
+        "Content": "Log in to Self-Service Portal → Go to Attendance Module → Click 'My Attendance Report' → Choose filters → View personal attendance",
+        "url": "https://hrms.faidihr.com/humanresource/timesheet/mytimesheet"
+    },
+    {
+        "Topic": "ADD TIMESHEET TASKS",
+        "Content": "Navigate to Timesheet Module → Access Timesheet Tasks → Click 'Add Record' → Fill in task details → Click 'Create'",
+        "url": "https://hrms.faidihr.com/timesheet/timesheettitems/myreport"
+    },
+    {
+        "Topic": "TIMESHEET REPORT",
+        "Content": "Navigate to Timesheet Reports → Set report filters → Click 'Filter' → View report → Export if needed",
+        "url": "https://hrms.faidihr.com/timesheet/timesheetitems/index"
+    },
+    {
+        "Topic": "PROJECT COSTS REPORT",
+        "Content": "Navigate to Timesheet Reports → Access Project Cost Data → Filter for project costs",
+        "url": "https://hrms.faidihr.com/timesheet/timesheettems/projectcosts"
+    },
+    {
+        "Topic": "HOURS WORKED/EMPLOYEE",
+        "Content": "Navigate to Timesheet Reports → Set filters for employee hours → View hours worked data",
+        "url": "https://hrms.faidihr.com/timesheet/timesheetitems/hoursworked"
+    },
+    {
+        "Topic": "MY TIMESHEET REPORT",
+        "Content": "Navigate to Timesheet Reports → View personal timesheet data",
+        "url": "https://hrms.faidihr.com/timesheet/timesheetitems/myreport"
+    },
+    {
+        "Topic": "UPLOAD BIOMETRICS ATTENDANCE",
+        "Content": "Navigate to Timesheet Import → Prepare biometrics data → Upload CSV file",
+        "url": "https://hrms.faidihr.com/humanresource/timesheet/uploadtimesheetdata"
+    },
+    {
+        "Topic": "UPDATE CLOCKIN LOCATION",
+        "Content": "Access Employee Clock In/Out → Update location during clock-in → Save with location",
+        "url": "https://hrms.faidihr.com/humanresource/timesheet/uploadtimesheetdata"
+    },
+    {
+        "Topic": "ALL EXPENSES",
+        "Content": "Go to Expenses → All Expenses → View complete expenses dashboard",
+        "url": "https://hrms.faidihr.com/humanresource/expenses/index"
+    },
+    {
+        "Topic": "MY EXPENSES",
+        "Content": "Go to Expenses → My Expenses → View personal expense dashboard",
+        "url": "https://hrms.faidihr.com/humanresource/expenses/index2"
+    },
+    {
+        "Topic": "HR APPROVAL",
+        "Content": "Navigate to HR Approval → View expenses pending approval → Review and approve expenses",
+        "url": "https://hrms.faidihr.com/humanresource/expenses/applications"
+    },
+    {
+        "Topic": "HR APPLY",
+        "Content": "Navigate to HR Apply → Fill in expense details form → Click 'Save'",
+        "url": "https://hrms.faidihr.com/humanresource/expenses/create"
+    },
+    {
+        "Topic": "EMPLOYEE APPLY",
+        "Content": "Navigate to Employee Apply → Fill in expense application form → Click 'Save'",
+        "url": "https://hrms.faidihr.com/humanresource/expenses/create2"
+    },
+    {
+        "Topic": "FINANCE APPROVALS",
+        "Content": "Navigate to Finance Approval → View expenses pending finance approval → Review and approve expenses",
+        "url": "https://hrms.faidihr.com/humanresource/expenses/hrapproved"
+    },
+    {
+        "Topic": "APPROVED EXPENSES",
+        "Content": "Navigate to Approved Expenses → View approved expenses interface",
+        "url": "https://hrms.faidihr.com/humanresource/expenses/approvedreport"
+    },
+    {
+        "Topic": "DISBURSED EXPENSES",
+        "Content": "Navigate to Disbursed Expenses → View disbursed expenses interface → Filter disbursed expenses",
+        "url": "https://hrms.faidihr.com/humanresource/expenses/disbursedexpenses"
+    },
+    {
+        "Topic": "EXPENSES TO REIMBURSE",
+        "Content": "Navigate to Expenses to Reimburse → View reimbursement dashboard",
+        "url": "https://hrms.faidihr.com/humanresource/expenses/expensestoreimburse"
+    },
+    {
+        "Topic": "DECLINED EXPENSES",
+        "Content": "Navigate to Declined Expenses → View declined expenses interface → Filter declined expenses",
+        "url": "https://hrms.faidihr.com/humanresource/expenses/declinedreport"
+    },
+    {
+        "Topic": "ADD EXPENSE TYPES",
+        "Content": "Navigate to Expense Types → View existing expense types → Click 'Create' button → Fill in expense type details → Click 'Save'",
+        "url": "https://hrms.faidihr.com/humanresource/products/index"
+    },
+    {
+        "Topic": "CREATE EVENT TYPE",
+        "Content": "Go to Others → Events → Create Event Type → Enter Type name → Click 'Save'",
+        "url": "https://hrms.faidihr.com/events/eventstype/create"
+    },
+    {
+        "Topic": "MANAGE EVENT TYPE",
+        "Content": "Go to Others → Events → Manage Event Type → View existing event types → Update/delete types → Create new types",
+        "url": "https://hrms.faidihr.com/events/eventstype/index"
+    },
+    {
+        "Topic": "CREATE EVENT",
+        "Content": "Go to Others → Events → Create Event → Fill in event details → Click 'Save'",
+        "url": "https://hrms.faidihr.com/events/events/create"
+    },
+    {
+        "Topic": "MANAGE EVENT",
+        "Content": "Go to Others → Events → Manage Event → View complete events list → Create new events → Manage event aspects",
+        "url": "https://hrms.faidihr.com/events/events/index"
+    },
+    {
+        "Topic": "CREATE NOTICE",
+        "Content": "Go to Others → Events → Create Event → Fill in event details as notice → Click 'Save'",
+        "url": "https://hrms.faidihr.com/events/noticeboard/create"
+    },
+    {
+        "Topic": "MANAGE NOTICEBOARD",
+        "Content": "Go to Others → Events → Manage Event → View existing events/notices → Edit/delete notices → Create new notices",
+        "url": "https://hrms.faidihr.com/events/noticeboard/index"
+    },
+    {
+        "Topic": "PROJECT",
+        "Content": "Go to Others → Project/Tasks → Project → View project tracking interface",
+        "url": "https://hrms.faidihr.com/monitoring/projects/index"
+    },
+    {
+        "Topic": "TASK BOARD",
+        "Content": "Go to Others → Project/Tasks → Task Board → Access real-time task tracking",
+        "url": "https://hrms.faidihr.com/monitoring/project-activities/index"
+    },
+    {
+        "Topic": "PROJECT TASKS",
+        "Content": "Go to Others → Project/Tasks → Project Tasks → View visual task representation",
+        "url": "https://hrms.faidihr.com/monitoring/project-activities/projecttasks"
+    },
+    {
+        "Topic": "PROJECT CLIENT",
+        "Content": "Go to Others → Project/Tasks → Project Client → Access client information database",
+        "url": "https://hrms.faidihr.com/monitoring/projectclients/index"
+    },
+    {
+        "Topic": "TASK TYPE",
+        "Content": "Go to Others → Project/Tasks → Task Type → View all task types → Add new task types",
+        "url": "https://hrms.faidihr.com/monitoring/tasktype/index"
+    },
+    {
+        "Topic": "CREATE USERS",
+        "Content": "Go to Others → Users → Create Users → Fill in 'Add Employee' form → Create user account",
+        "url": "https://hrms.faidihr.com/user-management/user/create"
+    },
+    {
+        "Topic": "CREATE RECRUITMENT USER",
+        "Content": "Go to Others → Users → Create Recruitment User → Complete specialized form → Click 'Create'",
+        "url": "https://hrms.faidihr.com/user-management/user/create2"
+    },
+    {
+        "Topic": "USERS",
+        "Content": "Go to Others → Users → Users → View all system users",
+        "url": "https://hrms.faidihr.com/user-management/user/index"
+    },
+    {
+        "Topic": "ROLES",
+        "Content": "Go to Others → Users → Roles → View existing roles → Create new roles",
+        "url": "https://hrms.faidihr.com/user-management/role/index"
+    },
+    {
+        "Topic": "PERMISSIONS",
+        "Content": "Go to Others → Users → Permissions → View existing permissions → Create new permissions",
+        "url": "https://hrms.faidihr.com/user-management/permission/index"
+    },
+    {
+        "Topic": "PERMISSION GROUPS",
+        "Content": "Go to Others → Users → Permission Groups → View existing groups → Create new groups",
+        "url": "https://hrms.faidihr.com/user-management/auth-item-group/index"
+    },
+    {
+        "Topic": "RESET USERS PASSWORDS",
+        "Content": "Go to Others → Users → Reset Users Passwords → Select staff from dropdown → Click 'Submit'",
+        "url": "https://hrms.faidihr.com/user-management/user/resetbulksercredentials"
+    },
+    {
+        "Topic": "BLOCK USERS",
+        "Content": "Go to Others → Users → Block Users → Select users from dropdown → Click 'Block'",
+        "url": "https://hrms.faidihr.com/user-management/user/blockusers"
+    },
+    {
+        "Topic": "UNBLOCK USERS",
+        "Content": "Go to Others → Users → Unblock Users → Select users from dropdown → Click 'UnBlock'",
+        "url": "https://hrms.faidihr.com/user-management/user/unblockallusers"
+    },
+    {
+        "Topic": "BRANCHES CONFIG",
+        "Content": "Go to Others → Global Configs → Branches Config → View branch configurations → Create new branches",
+        "url": "https://hrms.faidihr.com/humanresource/branches/brancheettings"
+    },
+    {
+        "Topic": "DEPARTMENTS CONFIG",
+        "Content": "Go to Others → Global Configs → Departments Config → View department configurations → Create new departments",
+        "url": "https://hrms.faidihr.com/humanresource/department/departmentsettings"
+    },
+    {
+        "Topic": "DESIGNATION/JOB GROUPS",
+        "Content": "Go to Others → Global Configs → Designation/Jobgroups → View job groups list → Add new job groups",
+        "url": "https://hrms.faidihr.com/humanresource/designation/designationsettings"
+    },
+    {
+        "Topic": "ADD RELATIONSHIPS",
+        "Content": "Go to Others → Global Configs → Add Relationships → View relationships configurations → Add new relations",
+        "url": "https://hrms.faidihr.com/humanresource/relationships/relationshipssettings"
+    },
+    {
+        "Topic": "SPECIALITY CONFIGURATIONS",
+        "Content": "Go to Others → Global Configs → Speciality Configurations → View specialty jobs list → Add new specialties",
+        "url": "https://hrms.faidihr.com/humanresource/specialty/specialtysettings"
+    },
+    {
+        "Topic": "ADD GRADES",
+        "Content": "Go to Others → Global Configs → Add Grades → View grades configurations → Add new grades",
+        "url": "https://hrms.faidihr.com/humanresource/grade/gradesettings"
+    },
+    {
+        "Topic": "ADD ITEMS",
+        "Content": "Go to Others → Global Configs → Add Items → View items configurations → Add new items",
+        "url": "https://hrms.faidihr.com/humanresource/items/itemsettings"
+    },
+    {
+        "Topic": "LEAVE TYPE",
+        "Content": "Go to Others → Global Configs → Leave Type → View existing leave types → Add new leave types",
+        "url": "https://hrms.faidihr.com/humanresource/nature/naturesettings"
+    },
+    {
+        "Topic": "COMPANY DETAILS",
+        "Content": "Go to Others → Global Configs → Company Details → View client profile → Update company information → Click 'Update Profile'",
+        "url": "https://hrms.faidihr.com/user-management/user/showclient"
+    },
+    {
+        "Topic": "POST BY EMPLOYEE (CASUALS)",
+        "Content": "Go to Others → Casuals → Post by Employee → Fill in casual employee payroll form → Click 'Save'",
+        "url": "https://hrms.faidihr.com/humanresource/casualpayroll/create"
+    },
+    {
+        "Topic": "POST BY PAYROLL CODE (CASUALS)",
+        "Content": "Go to Others → Casuals → Post by Payroll Code → Complete bulk posting form → Click 'Post'",
+        "url": "https://hrms.faidihr.com/humanresource/casualpayroll/postbypaycode"
+    },
+    {
+        "Topic": "BULK POSTING (CASUALS)",
+        "Content": "Go to Others → Casuals → Bulk Posting → Prepare data using template → Configure upload settings → Upload CSV file",
+        "url": "https://hrms.faidihr.com/humanresource/casualpayroll/postbulk"
+    }
+]
